@@ -1,0 +1,12 @@
+/S1M1/nbproject
+/S1M1/build.xml
+/S1M1/manifest.mf
+/S1M1/build/
+/S1M1/src/JavaApplication1/nbproject/private/
+/S1M1/dist/
+/S2M1/nbproject
+/S2M1/build.xml
+/S2M1/manifest.mf
+S2M2/obj/*.o
+S2M2/bin/salida
+.vscode/
